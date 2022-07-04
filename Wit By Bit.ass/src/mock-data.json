@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "fullName": "pavanKalyan",
+    "address": "Chittoor",
+    "phoneNumber": "9090897965",
+    "email": "pavan@gmail.com"
+  },
+  {
+    "id": 2,
+    "fullName": "kalyan",
+    "address": "Palamaner",
+    "phoneNumber": "7080906352",
+    "email": "kalyan@gmail.com"
+  },
+  {
+    "id": 3,
+    "fullName": "gojju kalyan",
+    "address": "Gangavaram",
+    "phoneNumber": "9177701355",
+    "email": "gojju@gmail.com"
+  }
+]
